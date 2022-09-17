@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(background.jpg);
+}
+.main{
+    width: 300px;
+    margin: 40px auto;
+    background-color: transparent;
+}
+#text{
+    width: 97%;
+    margin: 5px 0;
+    color: #090909;
+    font-size: 1.2em;
+    padding-left: 1px;
+    height: 1.2em;
+}
+#clearbtn{
+    width: 98%;
+    background-color: transparent;
+    margin: 3px 0;
+    color: #fff;
+    font-size: 1.5em;
+    border-color: #fff;
+}
+.btn{
+    width: 23.4%;
+    background-color: transparent;
+    margin: 3px 0;
+    color: #fff;
+    font-size: 1.5em;
+    border-color: #fff;
+}
+.hlfbtn{
+    width: 31.6%;
+    background-color: transparent;
+    margin: 3px 0;
+    color: #fff;
+    font-size: 1.5em;
+    border-color: #fff;
+}
